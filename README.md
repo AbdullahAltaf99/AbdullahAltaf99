@@ -1,6 +1,6 @@
-# <div align="center">⚫ **ABDULLAH ALTAF** 🔴</div>
-
 <div align="center">
+
+# Abdullah Altaf
 
 ### Flutter Mobile Application Developer
 
@@ -28,32 +28,21 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Flutter Mobile Application Developer** with **2+ years of experience** building high-performance, scalable, and visually polished mobile applications.
+📱 Flutter Mobile Developer
 
-I enjoy transforming ideas into production-ready apps with clean architecture, responsive UI, and maintainable code.
+🚀 2+ Years Experience
 
-### 🔴 What I Do
+🔥 Passionate about building scalable mobile applications
 
-- 📱 Cross-Platform Mobile Development
-- 🎨 Pixel Perfect UI/UX
-- ⚡ Clean Architecture
-- 🔥 Firebase Integration
-- 🌐 REST API Integration
-- 💬 Realtime Chat Applications
-- 🎥 Video Upload & Processing
-- 📍 Google Maps Integration
-- 🔔 Push Notifications
-- 💳 Payment Gateway Integration
+⚡ Currently learning and working on Node.js & Backend Development
 
-Currently expanding my skills into **Backend Development** using **Node.js**, **Express.js**, and **MongoDB**.
+💼 Open to Full-Time & Freelance Opportunities
 
 ---
 
 # ⚡ Tech Stack
-
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" height="55"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" height="55"/>&nbsp;&nbsp;
@@ -67,90 +56,50 @@ Currently expanding my skills into **Backend Development** using **Node.js**, **
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="55"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" height="55"/>
 
-</div>
+---
+
+## 🚀 Expertise
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=46D1FD)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-000000?style=for-the-badge&logo=flutter&logoColor=FF3131)
+![Material Design](https://img.shields.io/badge/Material_Design-000000?style=for-the-badge&logo=materialdesign&logoColor=FF3131)
+![Cupertino](https://img.shields.io/badge/Cupertino-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-# 🚀 Featured Expertise
+### ☁️ Backend Development
 
-<table>
-<tr>
-<td width="50%">
-
-### 📱 Mobile Apps
-
-- Flutter
-- Dart
-- Responsive UI
-- Material Design
-- Cupertino Design
-
-</td>
-
-<td width="50%">
-
-### ☁ Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- Firebase
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-### ⚙ State Management
-
-- GetX
-- Bloc
-- Provider
-
-</td>
-
-<td>
-
-### 🔧 Tools
-
-- Git
-- GitHub
-- Android Studio
-- VS Code
-- Postman
-
-</td>
-
-</tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=FF3131)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ---
 
-# 📊 GitHub Analytics
+### ⚙️ State Management
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullahaltaf99&show_icons=true&theme=shadow_red&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltaf99&layout=compact&theme=shadow_red&hide_border=true"/>
-
-</div>
+![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=flutter&logoColor=9146FF)
+![Bloc](https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=29B6F6)
+![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=42A5F5)
+![Riverpod](https://img.shields.io/badge/Riverpod-000000?style=for-the-badge&logo=flutter&logoColor=00BCD4)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=dart&logoColor=FF3131)
 
 ---
 
-# 🔥 GitHub Streak
+### 🛠️ Tools
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahaltaf99&theme=shadow-red&hide_border=true"/>
-
-</div>
 
 ---
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -160,75 +109,37 @@ Currently expanding my skills into **Backend Development** using **Node.js**, **
 </div>
 
 ---
+## 🚀 Why Work With Me
 
-# 🏆 What You Can Expect From Me
+✓ 2+ Years of Professional Flutter Development Experience
 
-- ✅ Production Ready Flutter Applications
-- ✅ Clean & Maintainable Code
-- ✅ Scalable Architecture
-- ✅ Pixel-Perfect UI/UX
-- ✅ REST API Integration
-- ✅ Firebase Services
-- ✅ Performance Optimization
-- ✅ Bug Fixing & Refactoring
-- ✅ Long-Term Project Support
+✓ Clean, Scalable & Maintainable Architecture
 
----
+✓ Pixel-Perfect UI with Responsive Design
 
-# 📚 Currently Learning
+✓ Firebase, REST APIs & Third-Party Integrations
 
-```text
-██████████████████████░░░░  Flutter Advanced
+✓ Performance Optimized Applications
 
-███████████████████░░░░░░░  Node.js
+✓ Strong Focus on Code Quality & User Experience
 
-█████████████████░░░░░░░░░  Express.js
+✓ Reliable Communication & On-Time Delivery
 
-████████████████░░░░░░░░░░  MongoDB
+## 🚀 Available For
 
-███████████████░░░░░░░░░░░  System Design
-```
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-000000?style=for-the-badge&logo=github&logoColor=FF3131)
+![Full-Time](https://img.shields.io/badge/Full--Time-000000?style=for-the-badge&logo=googlecalendar&logoColor=FF3131)
+![Remote](https://img.shields.io/badge/Remote-000000?style=for-the-badge&logo=icloud&logoColor=FF3131)
+![Freelance](https://img.shields.io/badge/Freelance-000000?style=for-the-badge&logo=fiverr&logoColor=1DBF73)
 
----
+## 🚀 Ready to Build Something Amazing?
 
-# 💼 Looking For
+> Building high-performance Flutter applications with
+> **Clean Architecture**, **Beautiful UI**, and
+> **Scalable Solutions**.
 
-- Full-Time Flutter Developer Roles
-- Remote Opportunities
-- Freelance Projects
-- Startup Collaborations
-- Mobile App Development Projects
+📧 **Email:** **abdullahaltaf.dev@gmail.com**
 
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:abdullahaltaf.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdullah-altaf-501b14351">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131"/>
-</a>
-
-<a href="https://github.com/abdullahaltaf99">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3131"/>
-</a>
-
-<a href="https://abdullahaltaf-eight.vercel.app/home">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3131"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚫ *Building Mobile Experiences That Users Love.* 🔴
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+⭐ *Let's build something users will love.*
 
 </div>
