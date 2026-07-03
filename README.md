@@ -1,184 +1,234 @@
+# <div align="center">⚫ **ABDULLAH ALTAF** 🔴</div>
+
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Altaf
+### Flutter Mobile Application Developer
 
-### 🚀 Flutter Mobile Application Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross+Platform+App+Developer;Building+Beautiful+Mobile+Apps;Learning+Backend+Development;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=FF3131&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Application+Developer;2%2B+Years+of+Professional+Experience;Building+Beautiful+%26+Scalable+Applications;Learning+Node.js+%26+Backend+Development;Open+to+Exciting+Opportunities"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<a href="mailto:abdullahaltaf.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdullah-altaf-501b14351">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131"/>
+</a>
+
+<a href="https://github.com/abdullahaltaf99">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3131"/>
+</a>
+
+<a href="https://abdullahaltaf-eight.vercel.app/home">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3131"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🚀 Passionate Flutter Developer with **2+ years of experience** building scalable and beautiful mobile applications.
+I'm a **Flutter Mobile Application Developer** with **2+ years of experience** building high-performance, scalable, and visually polished mobile applications.
 
-I specialize in creating:
+I enjoy transforming ideas into production-ready apps with clean architecture, responsive UI, and maintainable code.
 
-- 📱 Cross Platform Mobile Apps
-- 🎨 Pixel Perfect UI
+### 🔴 What I Do
+
+- 📱 Cross-Platform Mobile Development
+- 🎨 Pixel Perfect UI/UX
 - ⚡ Clean Architecture
 - 🔥 Firebase Integration
-- 🌐 REST APIs
-- 💬 Real-time Chat Applications
-- 🎥 Video Editing & Upload Features
-- 💳 Payment Integration
+- 🌐 REST API Integration
+- 💬 Realtime Chat Applications
+- 🎥 Video Upload & Processing
+- 📍 Google Maps Integration
+- 🔔 Push Notifications
+- 💳 Payment Gateway Integration
 
-Currently expanding my expertise into **Backend Development using Node.js & Express.js** to become a Full Stack Mobile Engineer.
-
----
-
-# 🛠 Tech Stack
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### State Management
-
-![GetX](https://img.shields.io/badge/GetX-purple?style=for-the-badge)
-![Bloc](https://img.shields.io/badge/BLoC-blue?style=for-the-badge)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+Currently expanding my skills into **Backend Development** using **Node.js**, **Express.js**, and **MongoDB**.
 
 ---
 
-# 🚀 What I Can Build
+# ⚡ Tech Stack
 
-✅ E-Commerce Apps
+<div align="center">
 
-✅ Social Media Apps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" height="55"/>
 
-✅ Chat Applications
-
-✅ Food Delivery Apps
-
-✅ Booking Systems
-
-✅ Educational Apps
-
-✅ REST API Integration
-
-✅ Firebase Authentication
-
-✅ Push Notifications
-
-✅ Google Maps
-
-✅ Video Upload & Compression
-
-✅ Payment Gateway Integration
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Featured Expertise
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 📱 Mobile Apps
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+- Flutter
+- Dart
+- Responsive UI
+- Material Design
+- Cupertino Design
 
-</p>
+</td>
+
+<td width="50%">
+
+### ☁ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Firebase
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+
+### ⚙ State Management
+
+- GetX
+- Bloc
+- Provider
+
+</td>
+
+<td>
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- Android Studio
+- VS Code
+- Postman
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullahaltaf99&show_icons=true&theme=shadow_red&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaltaf99&layout=compact&theme=shadow_red&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahaltaf99&theme=shadow-red&hide_border=true"/>
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🌟 Featured Skills
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahaltaf99&bg_color=000000&color=FF3131&line=FF3131&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 What You Can Expect From Me
+
+- ✅ Production Ready Flutter Applications
+- ✅ Clean & Maintainable Code
+- ✅ Scalable Architecture
+- ✅ Pixel-Perfect UI/UX
+- ✅ REST API Integration
+- ✅ Firebase Services
+- ✅ Performance Optimization
+- ✅ Bug Fixing & Refactoring
+- ✅ Long-Term Project Support
+
+---
+
+# 📚 Currently Learning
 
 ```text
-Flutter        ████████████████████ 95%
-Dart           ███████████████████ 92%
-Firebase       ██████████████████ 90%
-REST APIs      █████████████████ 88%
-Git            ████████████████ 85%
-Node.js        ████████████ 65%
-Express.js     ███████████ 60%
+██████████████████████░░░░  Flutter Advanced
+
+███████████████████░░░░░░░  Node.js
+
+█████████████████░░░░░░░░░  Express.js
+
+████████████████░░░░░░░░░░  MongoDB
+
+███████████████░░░░░░░░░░░  System Design
 ```
 
 ---
 
-# 🎯 Current Focus
+# 💼 Looking For
 
-📱 Building Production Ready Flutter Apps
-
-🌐 Learning Backend Development
-
-⚡ Clean Architecture
-
-🧠 Data Structures & Algorithms
-
-☁ Cloud Technologies
+- Full-Time Flutter Developer Roles
+- Remote Opportunities
+- Freelance Projects
+- Startup Collaborations
+- Mobile App Development Projects
 
 ---
 
-# 🤝 Let's Connect
+# 📬 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abdullahaltaf.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/abdullah-altaf-501b14351">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/abdullahaltaf99">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3131"/>
 </a>
 
-</p>
+<a href="https://abdullahaltaf-eight.vercel.app/home">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3131"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💜 "Code. Create. Innovate."
+## ⚫ *Building Mobile Experiences That Users Love.* 🔴
 
-### ⭐ If you like my work, don't forget to star my repositories.
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
 </div>
